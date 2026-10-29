@@ -2,9 +2,16 @@
 
 [Tiny Desk AI](https://tiny-desk.pro) is a web-based AI video generator that turns a single photo into a 15-second "tiny desk concert" video — the format behind the viral Tiny Desk AI trend on TikTok.
 
-## What it does
+## How the trend unfolded
 
-Upload one clear photo of a person and the generator renders them performing at the tiny desk: a 15-second, 9:16 vertical MP4 with no watermark, ready for TikTok, Reels and Shorts. There is no prompt to write and no reference video to hunt for — the desk, the mic and the camera moves are pre-built into the template.
+- **1982** — The Gap Band releases "Outstanding" on the album *Gap Band IV*.
+- **June 5, 2023** — Charlie Wilson, The Gap Band's lead singer, closes his NPR Tiny Desk concert with "Outstanding". The last ~19 seconds — the groove settling in, the room singing along, the hard cut — become the clip every later edit recasts.
+- **October 18, 2026** — A TikTok casts that weekend's losing college football coaches as the band behind the desk. The performance underneath is real; the coaches are not. This is the post that starts the Tiny Desk AI trend.
+- **Since then** — Every new version keeps the same set, the same song and the same camera moves, swapping in a new face at the mic. The only variable is who performs — which is exactly why a one-photo generator fits the format.
+
+## What the generator does
+
+Upload one clear photo of a person and [Tiny Desk AI](https://tiny-desk.pro) renders them performing at the tiny desk: a 15-second, 9:16 vertical MP4 with no watermark, ready for TikTok, Reels and Shorts. There is no prompt to write and no reference video to find — the desk, the mic and the camera moves are pre-built into the template.
 
 ## Highlights
 
@@ -22,6 +29,7 @@ Upload one clear photo of a person and the generator renders them performing at 
 ## Links
 
 - **Website:** [https://tiny-desk.pro](https://tiny-desk.pro)
+- **Trend origin:** [NPR's Tiny Desk concert series](https://www.npr.org/series/tiny-desk-concerts/)
 
 ---
 
